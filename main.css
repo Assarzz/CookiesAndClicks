@@ -1,0 +1,12 @@
+.center{
+    display: block;
+    text-align: center;
+    margin-right: auto; margin-left: auto;
+}
+
+#count{
+    color: red;
+    font-size: 10rem;
+    
+    user-select: none;
+}
